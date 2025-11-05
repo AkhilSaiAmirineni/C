@@ -248,4 +248,5 @@ Enter elements of second array:
 Merged array in descending order:
 6 5 4 4 4 3 2 2 2 1 
 ~~~
-
+###8. Write a program in C to count the frequency of each element of an array.
+~~~c
